@@ -10,9 +10,9 @@
 
 # Planned features:
 
--Actual UI to interact with features
--Larger board sizes than default
--Skin support (board and apple)
+- Actual UI to interact with features
+- Larger board sizes than default
+- Skin support (board and apple)
 
 
 ### How to install:
